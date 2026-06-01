@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" role="img" aria-label="Restream Genie">
+  <title>Restream Genie</title>
+  <defs>
+    <linearGradient id="restream-bg" x1="8" y1="6" x2="58" y2="60" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#082f49"/>
+      <stop offset="0.55" stop-color="#2563eb"/>
+      <stop offset="1" stop-color="#06b6d4"/>
+    </linearGradient>
+  </defs>
+  <rect width="64" height="64" rx="15" fill="url(#restream-bg)"/>
+  <circle cx="32" cy="34" r="6" fill="#ffffff"/>
+  <path d="M22.5 29.5a13.4 13.4 0 0 1 19 0M17.5 24.5a20.5 20.5 0 0 1 29 0M24 42.5a13.5 13.5 0 0 0 16 0" fill="none" stroke="#cffafe" stroke-width="4" stroke-linecap="round"/>
+  <path d="m47 37 2 4.4 4.6 1.7-4.6 1.8-2 4.3-2-4.3-4.6-1.8 4.6-1.7 2-4.4Z" fill="#fef3c7"/>
+  <path d="M32 40v8" fill="none" stroke="#ffffff" stroke-width="4" stroke-linecap="round"/>
+</svg>

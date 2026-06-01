@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" role="img" aria-label="Geetar Star">
+  <title>Geetar Star</title>
+  <defs>
+    <linearGradient id="geetar-bg" x1="10" y1="8" x2="56" y2="58" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#1e1b4b"/>
+      <stop offset="0.55" stop-color="#7c2d12"/>
+      <stop offset="1" stop-color="#f59e0b"/>
+    </linearGradient>
+    <linearGradient id="geetar-pick" x1="20" y1="13" x2="42" y2="50" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fff7ed"/>
+      <stop offset="1" stop-color="#fde68a"/>
+    </linearGradient>
+  </defs>
+  <rect width="64" height="64" rx="15" fill="url(#geetar-bg)"/>
+  <path d="M32 13c8 0 15 6.4 15 14.6 0 11.6-10.5 21.4-15 24.8-4.5-3.4-15-13.2-15-24.8C17 19.4 24 13 32 13Z" fill="url(#geetar-pick)"/>
+  <path d="m32 24 2.5 5.1 5.6.8-4.1 4 1 5.6-5-2.7-5 2.7 1-5.6-4.1-4 5.6-.8L32 24Z" fill="#7c2d12"/>
+  <path d="M24 23h16" fill="none" stroke="#f59e0b" stroke-width="2.6" stroke-linecap="round" opacity="0.65"/>
+</svg>
