@@ -10,7 +10,7 @@
   >
     <tspan letter-spacing="22">SUMMON</tspan>
   </text>
-  <g transform="translate(-230,10) scale(1.2)">
+  <g transform="translate(-218,10) scale(1.2)">
     <path
       fill="#f8fafc"
       fill-rule="evenodd"

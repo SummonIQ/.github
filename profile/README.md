@@ -2,9 +2,9 @@
   <h1>
     <a href="https://summoniq.com">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SummonIQ/.github/main/profile/assets/summoniq-logo-dark.svg?v=20260601-2">
-        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SummonIQ/.github/main/profile/assets/summoniq-logo-light.svg?v=20260601-2">
-        <img src="https://raw.githubusercontent.com/SummonIQ/.github/main/profile/assets/summoniq-logo-light.svg?v=20260601-2" alt="SummonIQ" width="330" align="absmiddle">
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SummonIQ/.github/main/profile/assets/summoniq-logo-dark.svg?v=20260601-3">
+        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SummonIQ/.github/main/profile/assets/summoniq-logo-light.svg?v=20260601-3">
+        <img src="https://raw.githubusercontent.com/SummonIQ/.github/main/profile/assets/summoniq-logo-light.svg?v=20260601-3" alt="SummonIQ" width="330" align="absmiddle">
       </picture>
     </a>&nbsp;Open Source
   </h1>
