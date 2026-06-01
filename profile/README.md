@@ -19,7 +19,6 @@
 | <img src="https://raw.githubusercontent.com/SummonIQ/.github/main/profile/assets/product-logos/appsummon.svg" alt="AppSummon logo" width="44"> | [AppSummon](https://github.com/SummonIQ/appsummon) | Storefront and access hub for the SummonIQ app collection. |
 | <img src="https://raw.githubusercontent.com/SummonIQ/.github/main/profile/assets/product-logos/bright-and-early.svg" alt="Bright And Early logo" width="44"> | [Bright And Early](https://github.com/SummonIQ/bright-and-early) | Studio and product archive for Bright and Early projects. |
 | <img src="https://raw.githubusercontent.com/SummonIQ/.github/main/profile/assets/product-logos/budgetbloom.svg" alt="BudgetBloom logo" width="44"> | [BudgetBloom](https://github.com/SummonIQ/budgetbloom) | A comprehensive personal finance management application built with Next.js 14, featuring advanced budgeting, multi-currency support, goal templates, and PWA capabilities. |
-|  | [Cleo Love](https://github.com/SummonIQ/cleo.love) | Public release of the Cleo Love web application. |
 |  | [Cleo's Club](https://github.com/SummonIQ/cleos-club) | Public release of the Cleo's Club application. |
 |  | [Code Mentors](https://github.com/SummonIQ/code-mentors) | Coder School web application for mentorship workflows. |
 |  | [Deterministic Codebase Audit](https://github.com/SummonIQ/deterministic-codebase-audit) | A practical audit framework for turning vague codebase concerns into prioritized, execution-ready findings. |
