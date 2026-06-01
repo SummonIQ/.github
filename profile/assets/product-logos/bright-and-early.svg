@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32">
+  <defs>
+    <radialGradient id="sunGradient" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" style="stop-color:#FDE047;stop-opacity:1" />
+      <stop offset="70%" style="stop-color:#FACC15;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#EAB308;stop-opacity:1" />
+    </radialGradient>
+  </defs>
+  
+  <!-- Sun rays -->
+  <g stroke="#FACC15" stroke-width="1.5" stroke-linecap="round">
+    <!-- Main rays -->
+    <line x1="16" y1="2" x2="16" y2="6" />
+    <line x1="16" y1="26" x2="16" y2="30" />
+    <line x1="2" y1="16" x2="6" y2="16" />
+    <line x1="26" y1="16" x2="30" y2="16" />
+    
+    <!-- Diagonal rays -->
+    <line x1="5.6" y1="5.6" x2="8.4" y2="8.4" />
+    <line x1="23.6" y1="23.6" x2="26.4" y2="26.4" />
+    <line x1="26.4" y1="5.6" x2="23.6" y2="8.4" />
+    <line x1="8.4" y1="23.6" x2="5.6" y2="26.4" />
+    
+    <!-- Additional rays for more visibility -->
+    <line x1="16" y1="4" x2="16" y2="7" />
+    <line x1="16" y1="25" x2="16" y2="28" />
+    <line x1="4" y1="16" x2="7" y2="16" />
+    <line x1="25" y1="16" x2="28" y2="16" />
+  </g>
+  
+  <!-- Sun center -->
+  <circle cx="16" cy="16" r="7" fill="url(#sunGradient)" stroke="#EAB308" stroke-width="1"/>
+</svg>
