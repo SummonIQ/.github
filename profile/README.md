@@ -47,7 +47,7 @@
   <tr>
     <td nowrap><img src="https://raw.githubusercontent.com/SummonIQ/.github/main/profile/assets/product-logos/cleos-club.svg" alt="" width="32" align="absmiddle">&nbsp;&nbsp;<a href="https://github.com/SummonIQ/cleos-club">Cleo's Club</a></td>
     <td>Private family hub for photos, time capsules, gifts, investments, and early learning milestones.</td>
-    <td></td>
+    <td><a href="https://cleosclub.com">cleosclub.com</a></td>
   </tr>
   <tr>
     <td nowrap><img src="https://raw.githubusercontent.com/SummonIQ/.github/main/profile/assets/product-logos/code-mentors.svg" alt="" width="32" align="absmiddle">&nbsp;&nbsp;<a href="https://github.com/SummonIQ/code-mentors">Code Mentors</a></td>
@@ -65,7 +65,7 @@
     <td></td>
   </tr>
   <tr>
-    <td nowrap><img src="https://raw.githubusercontent.com/SummonIQ/flow/main/public/logo.svg" alt="" width="32" align="absmiddle">&nbsp;&nbsp;<a href="https://github.com/SummonIQ/flow">Flow</a></td>
+    <td nowrap><img src="https://raw.githubusercontent.com/SummonIQ/.github/main/profile/assets/product-logos/flow.svg?v=20260601-1" alt="" width="32" align="absmiddle">&nbsp;&nbsp;<a href="https://github.com/SummonIQ/flow">Flow</a></td>
     <td>Desktop and web workspace for launching apps, editing project config, and reviewing workflow context.</td>
     <td></td>
   </tr>
@@ -100,7 +100,7 @@
     <td></td>
   </tr>
   <tr>
-    <td nowrap><img src="https://raw.githubusercontent.com/SummonIQ/.github/main/profile/assets/product-logos/mac-rabbit.svg" alt="" width="32" align="absmiddle">&nbsp;&nbsp;<a href="https://github.com/SummonIQ/mac-rabbit">Mac Rabbit</a></td>
+    <td nowrap><img src="https://raw.githubusercontent.com/SummonIQ/.github/main/profile/assets/product-logos/mac-rabbit.svg?v=20260601-2" alt="" width="32" align="absmiddle">&nbsp;&nbsp;<a href="https://github.com/SummonIQ/mac-rabbit">Mac Rabbit</a></td>
     <td>Native macOS utility for managing services, privacy controls, performance cleanup, and system status.</td>
     <td></td>
   </tr>
@@ -133,6 +133,11 @@
     <td nowrap><img src="https://raw.githubusercontent.com/SummonIQ/.github/main/profile/assets/product-logos/signalsplash.svg" alt="" width="32" align="absmiddle">&nbsp;&nbsp;<a href="https://github.com/SummonIQ/signalsplash">SignalSplash</a></td>
     <td>Analytics platform and SDKs for sessions, events, Web Vitals, reporting, and operational APIs.</td>
     <td><a href="https://signalsplash.com">signalsplash.com</a></td>
+  </tr>
+  <tr>
+    <td nowrap><img src="https://raw.githubusercontent.com/SummonIQ/.github/main/profile/assets/product-logos/snoopi.svg?v=20260601-1" alt="" width="32" align="absmiddle">&nbsp;&nbsp;<a href="https://github.com/SummonIQ/snoopi">Snoopi</a></td>
+    <td>Privacy-first AI meeting assistant with desktop capture, transcription, summaries, and follow-up workflows.</td>
+    <td><a href="https://snoopi.app">snoopi.app</a></td>
   </tr>
   <tr>
     <td nowrap><img src="https://raw.githubusercontent.com/SummonIQ/.github/main/profile/assets/product-logos/summonflow.svg" alt="" width="32" align="absmiddle">&nbsp;&nbsp;<a href="https://github.com/SummonIQ/summonflow">SummonFlow</a></td>

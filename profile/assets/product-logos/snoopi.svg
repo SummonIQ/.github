@@ -1,0 +1,23 @@
+<svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Snoopi">
+  <title>Snoopi</title>
+  <defs>
+    <linearGradient id="snoopi-bg" x1="0" y1="0" x2="64" y2="64" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#7c3aed"/>
+      <stop offset="1" stop-color="#a855f7"/>
+    </linearGradient>
+    <radialGradient id="snoopi-wavefade" cx="26" cy="26" r="12" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#fff"/>
+      <stop offset=".5" stop-color="#fff"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </radialGradient>
+    <mask id="snoopi-wavemask">
+      <circle cx="26" cy="26" r="12" fill="url(#snoopi-wavefade)"/>
+    </mask>
+  </defs>
+  <circle cx="32" cy="32" r="32" fill="url(#snoopi-bg)"/>
+  <circle cx="26" cy="26" r="14" stroke="#fff" stroke-width="3" fill="none"/>
+  <path d="M37 37l15 15" stroke="#fff" stroke-width="4" stroke-linecap="round" opacity=".62"/>
+  <g mask="url(#snoopi-wavemask)">
+    <path d="M18 22v8M22 19v14M26 17v18M30 19v14M34 22v8" stroke="#fbbf24" stroke-width="2" stroke-linecap="round"/>
+  </g>
+</svg>
