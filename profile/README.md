@@ -37,7 +37,7 @@
   <tr>
     <td nowrap><img src="https://raw.githubusercontent.com/SummonIQ/.github/main/profile/assets/product-logos/bright-and-early.svg" alt="" width="32" align="absmiddle">&nbsp;&nbsp;<a href="https://github.com/SummonIQ/bright-and-early">Bright And Early</a></td>
     <td>Portfolio and product archive for Bright and Early web projects, experiments, and public releases.</td>
-    <td></td>
+    <td><a href="https://bright-and-early.dev">bright-and-early.dev</a></td>
   </tr>
   <tr>
     <td nowrap><img src="https://raw.githubusercontent.com/SummonIQ/.github/main/profile/assets/product-logos/budgetbloom.png" alt="" width="32" align="absmiddle">&nbsp;&nbsp;<a href="https://github.com/SummonIQ/budgetbloom">BudgetBloom</a></td>
@@ -100,7 +100,7 @@
     <td></td>
   </tr>
   <tr>
-    <td nowrap><img src="https://raw.githubusercontent.com/SummonIQ/.github/main/profile/assets/product-logos/mac-rabbit.png" alt="" width="32" align="absmiddle">&nbsp;&nbsp;<a href="https://github.com/SummonIQ/mac-rabbit">Mac Rabbit</a></td>
+    <td nowrap><img src="https://raw.githubusercontent.com/SummonIQ/.github/main/profile/assets/product-logos/mac-rabbit.svg" alt="" width="32" align="absmiddle">&nbsp;&nbsp;<a href="https://github.com/SummonIQ/mac-rabbit">Mac Rabbit</a></td>
     <td>Native macOS utility for managing services, privacy controls, performance cleanup, and system status.</td>
     <td></td>
   </tr>
