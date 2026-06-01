@@ -7,9 +7,11 @@
     </linearGradient>
   </defs>
   <rect x="40" y="40" width="432" height="432" rx="104" fill="url(#mr-bg)"/>
-  <path d="M138 362c17-51 59-86 119-94 8-62 38-116 90-161 15 48 6 94-27 138 36 8 65 27 83 54 25 39 16 87-24 119-31 25-77 38-137 38h-92" fill="#f8fafc"/>
-  <path d="M241 264c-16-57 0-107 48-150 22 42 24 84 5 126" fill="none" stroke="#dbeafe" stroke-width="28" stroke-linecap="round" stroke-linejoin="round"/>
-  <path d="M306 248c39-39 53-82 41-129" fill="none" stroke="#dbeafe" stroke-width="28" stroke-linecap="round" stroke-linejoin="round"/>
-  <path d="M295 315c31 2 54 20 67 51" fill="none" stroke="#1e40af" stroke-width="20" stroke-linecap="round" opacity=".42"/>
-  <circle cx="321" cy="291" r="10" fill="#1e293b"/>
+  <g transform="translate(8 -10)">
+    <path d="M132 374c17-48 56-80 113-87 10-61 40-115 91-160 15 45 8 87-20 126 39 7 68 27 83 56 19 37 2 77-42 100-31 16-72 24-123 24h-82c-18 0-29-19-22-36l2-23Z" fill="#f8fafc"/>
+    <path d="M240 274c-14-58 3-110 49-155 21 42 22 84 4 125" fill="none" stroke="#dbeafe" stroke-width="28" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M305 249c38-39 52-82 40-129" fill="none" stroke="#dbeafe" stroke-width="28" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M282 323c34 4 60 23 75 53" fill="none" stroke="#1e40af" stroke-width="18" stroke-linecap="round" opacity=".38"/>
+    <circle cx="319" cy="292" r="9" fill="#1e293b"/>
+  </g>
 </svg>
