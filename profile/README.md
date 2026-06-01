@@ -1,9 +1,9 @@
-<div align="center">
+<div>
   <a href="https://summoniq.com">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SummonIQ/.github/main/profile/assets/summoniq-wordmark-dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SummonIQ/.github/main/profile/assets/summoniq-wordmark-light.svg">
-      <img src="https://raw.githubusercontent.com/SummonIQ/.github/main/profile/assets/summoniq-wordmark-light.svg" alt="SummonIQ" width="430">
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SummonIQ/.github/main/profile/assets/summoniq-logo-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SummonIQ/.github/main/profile/assets/summoniq-logo-light.svg">
+      <img src="https://raw.githubusercontent.com/SummonIQ/.github/main/profile/assets/summoniq-logo-light.svg" alt="SummonIQ" width="430">
     </picture>
   </a>
 
@@ -17,7 +17,7 @@
 | --- | --- | --- |
 |  | [Agency Base](https://github.com/SummonIQ/agency-base) | A comprehensive agency management platform that helps agencies streamline their operations, manage clients, and grow their business. This application provides a powerful set of tools to m... |
 | <img src="https://raw.githubusercontent.com/SummonIQ/.github/main/profile/assets/product-logos/applab.svg" alt="AppLab logo" width="44"> | [AppLab](https://github.com/SummonIQ/applab) | AppLab is a comprehensive control plane for building, launching, and maintaining a large portfolio of applications. It provides a centralized interface to manage projects, automate deploy... |
-|  | [AppSummon](https://github.com/SummonIQ/appsummon) | Storefront and access hub for the SummonIQ app collection. |
+| <img src="https://raw.githubusercontent.com/SummonIQ/.github/main/profile/assets/product-logos/appsummon.svg" alt="AppSummon logo" width="44"> | [AppSummon](https://github.com/SummonIQ/appsummon) | Storefront and access hub for the SummonIQ app collection. |
 | <img src="https://raw.githubusercontent.com/SummonIQ/.github/main/profile/assets/product-logos/bizfoo.svg" alt="Bizfoo logo" width="44"> | [Bizfoo](https://github.com/SummonIQ/bizfoo) | Storefronts that ship in an afternoon. Live: https://bizfoo.com |
 | <img src="https://raw.githubusercontent.com/SummonIQ/bright-and-early/main/public/logos/logo-code.svg" alt="Bright And Early logo" width="44"> | [Bright And Early](https://github.com/SummonIQ/bright-and-early) | Studio and product archive for Bright and Early projects. |
 | <img src="https://raw.githubusercontent.com/SummonIQ/budgetbloom/main/public/logo.svg" alt="BudgetBloom logo" width="44"> | [BudgetBloom](https://github.com/SummonIQ/budgetbloom) | A comprehensive personal finance management application built with Next.js 14, featuring advanced budgeting, multi-currency support, goal templates, and PWA capabilities. |
@@ -42,7 +42,7 @@
 | <img src="https://raw.githubusercontent.com/SummonIQ/signalsplash/main/apps/web/public/logos/horizontal-logo-mono-dark.svg" alt="SignalSplash logo" width="44"> | [SignalSplash](https://github.com/SummonIQ/signalsplash) | Analytics and API tooling for SignalSplash Pro. |
 | <img src="https://raw.githubusercontent.com/SummonIQ/.github/main/profile/assets/product-logos/snoopi.svg" alt="Snoopi logo" width="44"> | [Snoopi](https://github.com/SummonIQ/snoopi) | A comprehensive AI-powered meeting assistant with both a native desktop application and a modern marketing website. |
 | <img src="https://raw.githubusercontent.com/SummonIQ/summonflow/main/public/brand/summonflow-header-logo.svg" alt="SummonFlow logo" width="44"> | [SummonFlow](https://github.com/SummonIQ/summonflow) | Workflow and realtime infrastructure components for SummonFlow. |
-| <img src="https://raw.githubusercontent.com/SummonIQ/.github/main/profile/assets/product-logos/summoniq.svg" alt="SummonIQ logo" width="44"> | [SummonIQ](https://github.com/SummonIQ/summoniq) | Engineering-first consulting site and starter dashboard for SummonIQ. |
+| <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SummonIQ/.github/main/profile/assets/summoniq-logo-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SummonIQ/.github/main/profile/assets/summoniq-logo-light.svg"><img src="https://raw.githubusercontent.com/SummonIQ/.github/main/profile/assets/summoniq-logo-light.svg" alt="SummonIQ logo" width="88"></picture> | [SummonIQ](https://github.com/SummonIQ/summoniq) | Engineering-first consulting site and starter dashboard for SummonIQ. |
 | <img src="https://raw.githubusercontent.com/SummonIQ/.github/main/profile/assets/product-logos/summoniq-leads.svg" alt="SummonIQ Leads logo" width="44"> | [SummonIQ Leads](https://github.com/SummonIQ/summoniq-leads) | SummonIQ Leads is a separate product/application dashboard for productized sales intelligence engines. It is not a cheap lead list or spam tool. |
 | <img src="https://raw.githubusercontent.com/SummonIQ/.github/main/profile/assets/product-logos/tech-lead-toolkit.svg" alt="Tech Lead Toolkit logo" width="44"> | [Tech Lead Toolkit](https://github.com/SummonIQ/tech-lead-toolkit) | A comprehensive platform designed to empower technical leaders with tools for team management, project tracking, and professional development. |
 |  | [Toddler Crafts](https://github.com/SummonIQ/toddler-crafts) | Public release of the Toddler Crafts project. |
