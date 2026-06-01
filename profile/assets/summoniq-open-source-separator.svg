@@ -1,3 +1,10 @@
 <svg width="49" height="37" viewBox="0 0 49 37" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .bg { fill: #ffffff; }
+    @media (prefers-color-scheme: dark) {
+      .bg { fill: #0d1117; }
+    }
+  </style>
+  <rect class="bg" width="49" height="37"/>
   <path d="M24.5 0v37" stroke="#94a3b8" stroke-width="1"/>
 </svg>

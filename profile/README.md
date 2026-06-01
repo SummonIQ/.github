@@ -6,7 +6,7 @@
         <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SummonIQ/.github/main/profile/assets/summoniq-logo-light.svg?v=20260601-3">
         <img src="https://raw.githubusercontent.com/SummonIQ/.github/main/profile/assets/summoniq-logo-light.svg?v=20260601-3" alt="SummonIQ" width="330" align="absmiddle">
       </picture>
-    </a><img src="https://raw.githubusercontent.com/SummonIQ/.github/main/profile/assets/summoniq-open-source-separator.svg?v=20260601-1" alt="" width="49" height="37" align="absmiddle">Open Source
+    </a><img src="https://raw.githubusercontent.com/SummonIQ/.github/main/profile/assets/summoniq-open-source-separator.svg?v=20260601-2" alt="" width="49" height="37" align="absmiddle">Open Source
   </h1>
   <p>Public releases from the SummonIQ project archive. Each repository is published under the Unlicense unless a repository states otherwise.</p>
 </div>
