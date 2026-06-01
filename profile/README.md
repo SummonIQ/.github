@@ -15,7 +15,7 @@
 
 <table>
   <tr>
-    <th align="left">Name</th>
+    <th align="left" width="430">Name</th>
     <th align="left">Details</th>
     <th align="left">Website</th>
   </tr>
