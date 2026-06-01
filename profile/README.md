@@ -65,7 +65,7 @@
     <td></td>
   </tr>
   <tr>
-    <td nowrap><img src="https://raw.githubusercontent.com/SummonIQ/.github/main/profile/assets/product-logos/flow.svg?v=20260601-1" alt="" width="32" height="32" align="absmiddle">&nbsp;&nbsp;<a href="https://github.com/SummonIQ/flow">Flow</a></td>
+    <td nowrap><img src="https://raw.githubusercontent.com/SummonIQ/.github/main/profile/assets/product-logos/flow.svg?v=20260601-2" alt="" width="32" height="32" align="absmiddle">&nbsp;&nbsp;<a href="https://github.com/SummonIQ/flow">Flow</a></td>
     <td>Desktop and web workspace for launching apps, editing project config, and reviewing workflow context.</td>
     <td></td>
   </tr>
