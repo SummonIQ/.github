@@ -1,9 +1,12 @@
 <div align="center">
   <a href="https://summoniq.com">
-    <img src="https://avatars.githubusercontent.com/u/251941955?s=200&v=4" alt="SummonIQ logo" width="104">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SummonIQ/.github/main/profile/assets/summoniq-wordmark-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SummonIQ/.github/main/profile/assets/summoniq-wordmark-light.svg">
+      <img src="https://raw.githubusercontent.com/SummonIQ/.github/main/profile/assets/summoniq-wordmark-light.svg" alt="SummonIQ" width="430">
+    </picture>
   </a>
 
-  <h1>SummonIQ</h1>
   <p>Products, apps, and developer tools from the SummonIQ studio.</p>
 </div>
 
