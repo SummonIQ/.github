@@ -25,6 +25,11 @@
     <td></td>
   </tr>
   <tr>
+    <td nowrap><img src="https://raw.githubusercontent.com/SummonIQ/.github/main/profile/assets/product-logos/applab-studio.svg" alt="" width="32" align="absmiddle">&nbsp;&nbsp;<a href="https://github.com/SummonIQ/applab-studio">AppLab Studio</a></td>
+    <td>Designer dashboard for creating, editing, and shipping pages across SummonIQ projects.</td>
+    <td></td>
+  </tr>
+  <tr>
     <td nowrap><img src="https://raw.githubusercontent.com/SummonIQ/.github/main/profile/assets/product-logos/appsummon.svg" alt="" width="32" align="absmiddle">&nbsp;&nbsp;<a href="https://github.com/SummonIQ/appsummon">AppSummon</a></td>
     <td>Storefront and access hub for browsing, buying, and launching the SummonIQ app collection.</td>
     <td><a href="https://appsummon.com">appsummon.com</a></td>
@@ -52,6 +57,11 @@
   <tr>
     <td><img src="https://raw.githubusercontent.com/SummonIQ/.github/main/profile/assets/product-logos/codebase-audit.svg" alt="" width="32" align="absmiddle">&nbsp;&nbsp;<a href="https://github.com/SummonIQ/codebase-audit">Codebase Audit</a></td>
     <td>Codebase audit framework for producing prioritized, line-numbered findings and execution-ready tests.</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td nowrap><img src="https://raw.githubusercontent.com/SummonIQ/.github/main/profile/assets/product-logos/domain-jane.svg" alt="" width="32" align="absmiddle">&nbsp;&nbsp;<a href="https://github.com/SummonIQ/domain-jane">Domain Jane</a></td>
+    <td>Electron desktop app for domain availability search, favorites, RDAP lookups, and expiry tracking.</td>
     <td></td>
   </tr>
   <tr>
@@ -85,6 +95,11 @@
     <td><a href="https://grabbatime.com">grabbatime.com</a></td>
   </tr>
   <tr>
+    <td nowrap><img src="https://raw.githubusercontent.com/SummonIQ/.github/main/profile/assets/product-logos/imessage-exporter.svg" alt="" width="32" align="absmiddle">&nbsp;&nbsp;<a href="https://github.com/SummonIQ/iMessageExporter">iMessageExporter</a></td>
+    <td>Native macOS app for browsing local Messages chats and exporting conversations to TXT, CSV, JSON, or HTML.</td>
+    <td></td>
+  </tr>
+  <tr>
     <td nowrap><img src="https://raw.githubusercontent.com/SummonIQ/.github/main/profile/assets/product-logos/mac-rabbit.png" alt="" width="32" align="absmiddle">&nbsp;&nbsp;<a href="https://github.com/SummonIQ/mac-rabbit">Mac Rabbit</a></td>
     <td>Native macOS utility for managing services, privacy controls, performance cleanup, and system status.</td>
     <td></td>
@@ -98,6 +113,11 @@
     <td nowrap><img src="https://raw.githubusercontent.com/SummonIQ/margin/main/apps/web/public/favicon.svg" alt="" width="32" align="absmiddle">&nbsp;&nbsp;<a href="https://github.com/SummonIQ/margin">Margin</a></td>
     <td>AI-assisted publishing workspace for writing, designing, and publishing polished book projects.</td>
     <td><a href="https://margin.appsummon.com">margin.appsummon.com</a></td>
+  </tr>
+  <tr>
+    <td nowrap><img src="https://raw.githubusercontent.com/SummonIQ/.github/main/profile/assets/product-logos/pagelet.svg" alt="" width="32" align="absmiddle">&nbsp;&nbsp;<a href="https://github.com/SummonIQ/pagelet">Pagelet</a></td>
+    <td>Minimal macOS browser frame app for floating web windows, quick actions, and authentication workflows.</td>
+    <td></td>
   </tr>
   <tr>
     <td nowrap><img src="https://raw.githubusercontent.com/SummonIQ/.github/main/profile/assets/product-logos/plavement.svg" alt="" width="32" align="absmiddle">&nbsp;&nbsp;<a href="https://github.com/SummonIQ/plavement">Plavement</a></td>
