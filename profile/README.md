@@ -13,7 +13,7 @@
 
 ## Repositories
 
-| Name | Details | Website |
+| Name&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Details | Website |
 | :--- | :--- | :--- |
 | <img src="https://raw.githubusercontent.com/SummonIQ/.github/main/profile/assets/product-logos/agency-base.svg" alt="" width="32" align="absmiddle">&nbsp;&nbsp;[Agency&nbsp;Base](https://github.com/SummonIQ/agency-base) | Agency operations platform for managing clients, work, billing, files, and growth workflows in one workspace. |  |
 | <img src="https://raw.githubusercontent.com/SummonIQ/.github/main/profile/assets/product-logos/appsummon.svg" alt="" width="32" align="absmiddle">&nbsp;&nbsp;[AppSummon](https://github.com/SummonIQ/appsummon) | Storefront and access hub for browsing, buying, and launching the SummonIQ app collection. | [appsummon.com](https://appsummon.com) |
