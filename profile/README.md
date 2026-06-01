@@ -115,7 +115,7 @@
     <td><a href="https://signalsplash.com">signalsplash.com</a></td>
   </tr>
   <tr>
-    <td nowrap><img src="https://raw.githubusercontent.com/SummonIQ/summonflow/main/public/brand/summonflow-header-logo.svg" alt="" width="32" align="absmiddle">&nbsp;&nbsp;<a href="https://github.com/SummonIQ/summonflow">SummonFlow</a></td>
+    <td nowrap><img src="https://raw.githubusercontent.com/SummonIQ/.github/main/profile/assets/product-logos/summonflow.svg" alt="" width="32" align="absmiddle">&nbsp;&nbsp;<a href="https://github.com/SummonIQ/summonflow">SummonFlow</a></td>
     <td>Realtime client, server, Redis, and Cloudflare packages for event-driven product workflows.</td>
     <td><a href="https://summonflow.com">summonflow.com</a></td>
   </tr>
