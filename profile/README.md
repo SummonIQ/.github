@@ -4,7 +4,7 @@
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SummonIQ/.github/main/profile/assets/summoniq-logo-dark.svg?v=20260601-3">
         <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SummonIQ/.github/main/profile/assets/summoniq-logo-light.svg?v=20260601-3">
-        <img src="https://raw.githubusercontent.com/SummonIQ/.github/main/profile/assets/summoniq-logo-light.svg?v=20260601-3" alt="SummonIQ" width="315" align="absmiddle">
+        <img src="https://raw.githubusercontent.com/SummonIQ/.github/main/profile/assets/summoniq-logo-light.svg?v=20260601-3" alt="SummonIQ" width="300" align="absmiddle">
       </picture>
     </a><img src="https://raw.githubusercontent.com/SummonIQ/.github/main/profile/assets/summoniq-open-source-separator.svg?v=20260601-2" alt="" width="49" height="37" align="absmiddle">Open Source
   </h1>
