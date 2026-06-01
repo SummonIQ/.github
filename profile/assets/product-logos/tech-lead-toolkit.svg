@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="188" height="168" viewBox="0 0 188 168" fill="none">
+  <g transform="translate(20 12)">
+    <path
+      d="M44 106C44 78.3858 66.3858 56 94 56V56C104.493 56 113 64.5066 113 75V109C113 130.539 95.5391 148 74 148H56C49.3726 148 44 142.627 44 136V106Z"
+      fill="white"
+      stroke="#111111"
+      stroke-linecap="round"
+      stroke-linejoin="round"
+      stroke-width="10"
+    />
+    <path
+      d="M98 56V44C98 27.4315 111.431 14 128 14H142C146.418 14 150 17.5817 150 22V48C150 52.4183 146.418 56 142 56H98Z"
+      fill="white"
+      stroke="#111111"
+      stroke-linecap="round"
+      stroke-linejoin="round"
+      stroke-width="10"
+    />
+    <path
+      d="M106 70H154V74C154 94.9868 136.987 112 116 112H106V70Z"
+      fill="#FF8A3D"
+      stroke="#111111"
+      stroke-linecap="round"
+      stroke-linejoin="round"
+      stroke-width="10"
+    />
+    <path
+      d="M108 86H148"
+      stroke="#111111"
+      stroke-linecap="round"
+      stroke-width="10"
+    />
+    <path
+      d="M60 106C60 91.6406 71.6406 80 86 80H96V105C96 119.359 84.3594 131 70 131V131C64.4772 131 60 126.523 60 121V106Z"
+      fill="white"
+      stroke="#111111"
+      stroke-linecap="round"
+      stroke-linejoin="round"
+      stroke-width="10"
+    />
+    <circle cx="86" cy="79" r="5" fill="#111111" />
+    <path
+      d="M57 148V118"
+      stroke="#111111"
+      stroke-linecap="round"
+      stroke-width="10"
+    />
+  </g>
+</svg>
