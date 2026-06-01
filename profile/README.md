@@ -50,7 +50,7 @@
     <td></td>
   </tr>
   <tr>
-    <td nowrap><img src="https://raw.githubusercontent.com/SummonIQ/.github/main/profile/assets/product-logos/deterministic-codebase-audit.svg" alt="" width="32" align="absmiddle">&nbsp;&nbsp;<a href="https://github.com/SummonIQ/deterministic-codebase-audit" title="Deterministic Codebase Audit">Codebase Audit</a></td>
+    <td nowrap><img src="https://raw.githubusercontent.com/SummonIQ/.github/main/profile/assets/product-logos/deterministic-codebase-audit.svg" alt="" width="32" align="absmiddle">&nbsp;&nbsp;<a href="https://github.com/SummonIQ/deterministic-codebase-audit">Deterministic Codebase Audit</a></td>
     <td>Codebase audit framework for producing prioritized, line-numbered findings and execution-ready tests.</td>
     <td></td>
   </tr>
