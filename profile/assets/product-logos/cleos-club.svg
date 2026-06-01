@@ -1,0 +1,94 @@
+<svg viewBox="0 0 52 56" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Cleo's Club">
+  <title>Cleo's Club</title>
+  <defs>
+    <linearGradient id="cleo-hair" x1="30%" y1="0%" x2="70%" y2="100%">
+      <stop offset="0%" stop-color="#c9a454"/>
+      <stop offset="40%" stop-color="#a8873e"/>
+      <stop offset="100%" stop-color="#8a6b2e"/>
+    </linearGradient>
+    <linearGradient id="cleo-hair-shadow" x1="30%" y1="0%" x2="70%" y2="100%">
+      <stop offset="0%" stop-color="#9a7832"/>
+      <stop offset="100%" stop-color="#7a5e2e"/>
+    </linearGradient>
+    <radialGradient id="cleo-skin" cx="50%" cy="45%" r="50%">
+      <stop offset="0%" stop-color="#ffe6cc"/>
+      <stop offset="100%" stop-color="#f2ceaa"/>
+    </radialGradient>
+    <linearGradient id="cleo-band" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#f87171"/>
+      <stop offset="20%" stop-color="#fb923c"/>
+      <stop offset="40%" stop-color="#facc15"/>
+      <stop offset="60%" stop-color="#4ade80"/>
+      <stop offset="80%" stop-color="#60a5fa"/>
+      <stop offset="100%" stop-color="#a78bfa"/>
+    </linearGradient>
+    <linearGradient id="cleo-tie-l" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#f87171"/>
+      <stop offset="100%" stop-color="#fb923c"/>
+    </linearGradient>
+    <linearGradient id="cleo-tie-r" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#60a5fa"/>
+      <stop offset="100%" stop-color="#a78bfa"/>
+    </linearGradient>
+    <radialGradient id="cleo-iris" cx="45%" cy="40%" r="50%">
+      <stop offset="0%" stop-color="#5c3816"/>
+      <stop offset="100%" stop-color="#3d2210"/>
+    </radialGradient>
+  </defs>
+  <path d="M14 24 C12 28, 9 34, 8 40 C7.5 44, 8.5 47, 11 47.5 C13 47.5, 15 45, 15 40 C15 34, 15 28, 14.5 24Z" fill="url(#cleo-hair)"/>
+  <path d="M14.5 26 C13 30, 11 36, 10.5 40 C10 43, 11 45, 13 44.5 C14 44, 14.5 41, 14.5 36Z" fill="url(#cleo-hair-shadow)" opacity="0.35"/>
+  <path d="M38 24 C40 28, 43 34, 44 40 C44.5 44, 43.5 47, 41 47.5 C39 47.5, 37 45, 37 40 C37 34, 37 28, 37.5 24Z" fill="url(#cleo-hair)"/>
+  <path d="M37.5 26 C39 30, 41 36, 41.5 40 C42 43, 41 45, 39 44.5 C38 44, 37.5 41, 37.5 36Z" fill="url(#cleo-hair-shadow)" opacity="0.35"/>
+  <ellipse cx="26" cy="30" rx="12.5" ry="13.5" fill="url(#cleo-skin)"/>
+  <path d="M13.5 28 C13.5 24, 13 18, 14 13 C16 8, 20 5, 26 5 C32 5, 36 8, 38 13 C39 18, 38.5 24, 38.5 28 C38.5 24, 35 21, 26 21 C17 21, 13.5 24, 13.5 28Z" fill="url(#cleo-hair)"/>
+  <path d="M13.5 28 C13 26, 13 24, 13.5 22 C13 24, 13 27, 14 30 C14.5 32, 14.5 30, 13.5 28Z" fill="url(#cleo-hair)"/>
+  <path d="M38.5 28 C39 26, 39 24, 38.5 22 C39 24, 39 27, 38 30 C37.5 32, 37.5 30, 38.5 28Z" fill="url(#cleo-hair)"/>
+  <path d="M20 8 C23 6.5, 29 6.5, 32 8" fill="none" stroke="#d4b060" stroke-width="1" stroke-linecap="round" opacity="0.35"/>
+  <path d="M15 22 C17.5 19.5, 20 19, 23 20" fill="none" stroke="#c9a454" stroke-width="1.8" stroke-linecap="round" opacity="0.5"/>
+  <path d="M29 20 C32 19, 34.5 19.5, 37 22" fill="none" stroke="#c9a454" stroke-width="1.8" stroke-linecap="round" opacity="0.5"/>
+  <path d="M26 6 C26 8, 26 11, 26 14" fill="none" stroke="#9a7832" stroke-width="0.6" stroke-linecap="round" opacity="0.2"/>
+  <path d="M14 22 C10 20, 6 21, 5 24.5 C4 28, 5.5 31, 8 31 C10 31, 11 28, 11 25.5 C11.5 23, 13 21.5, 14 22Z" fill="url(#cleo-hair)"/>
+  <path d="M8 31 C6 33, 5 36, 6.5 38 C7.5 39.5, 10 39, 10 37 C10 35, 9 32.5, 8 31Z" fill="url(#cleo-hair)"/>
+  <path d="M6.5 38 C5.5 40, 6 41.5, 8 42 C9.5 42, 10.5 41, 9.5 39.5" fill="url(#cleo-hair)"/>
+  <path d="M12 24 C10 25, 8 27.5, 8 30" fill="none" stroke="#8a6b2e" stroke-width="0.7" stroke-linecap="round" opacity="0.3"/>
+  <path d="M38 22 C42 20, 46 21, 47 24.5 C48 28, 46.5 31, 44 31 C42 31, 41 28, 41 25.5 C40.5 23, 39 21.5, 38 22Z" fill="url(#cleo-hair)"/>
+  <path d="M44 31 C46 33, 47 36, 45.5 38 C44.5 39.5, 42 39, 42 37 C42 35, 43 32.5, 44 31Z" fill="url(#cleo-hair)"/>
+  <path d="M45.5 38 C46.5 40, 46 41.5, 44 42 C42.5 42, 41.5 41, 42.5 39.5" fill="url(#cleo-hair)"/>
+  <path d="M40 24 C42 25, 44 27.5, 44 30" fill="none" stroke="#8a6b2e" stroke-width="0.7" stroke-linecap="round" opacity="0.3"/>
+  <circle cx="14" cy="22" r="1.8" fill="url(#cleo-tie-l)"/>
+  <circle cx="14" cy="22" r="0.9" fill="url(#cleo-tie-l)" opacity="0.5"/>
+  <circle cx="38" cy="22" r="1.8" fill="url(#cleo-tie-r)"/>
+  <circle cx="38" cy="22" r="0.9" fill="url(#cleo-tie-r)" opacity="0.5"/>
+  <path d="M14.5 20 Q26 16.5 37.5 20" fill="none" stroke="url(#cleo-band)" stroke-width="2.2" stroke-linecap="round"/>
+  <path d="M16.8 29 C17.5 26.5, 19.5 25.5, 21.2 25.5 C23 25.5, 25 26.5, 25.2 29 C25 31.2, 23 32.5, 21.2 32.5 C19.2 32.5, 17 31.2, 16.8 29Z" fill="white"/>
+  <path d="M16.8 29 C17.5 26.5, 19.5 25.5, 21.2 25.5 C23 25.5, 25 26.5, 25.2 29 C25 31.2, 23 32.5, 21.2 32.5 C19.2 32.5, 17 31.2, 16.8 29Z" fill="none" stroke="#e0cdb8" stroke-width="0.3"/>
+  <circle cx="21.2" cy="29.2" r="2.5" fill="url(#cleo-iris)"/>
+  <circle cx="21.4" cy="29" r="1.2" fill="#1a0c04"/>
+  <circle cx="22.5" cy="28" r="0.9" fill="white"/>
+  <circle cx="20.2" cy="30" r="0.45" fill="white" opacity="0.7"/>
+  <path d="M26.8 29 C27 26.5, 29 25.5, 30.8 25.5 C32.5 25.5, 34.5 26.5, 35.2 29 C35 31.2, 32.8 32.5, 30.8 32.5 C29 32.5, 27 31.2, 26.8 29Z" fill="white"/>
+  <path d="M26.8 29 C27 26.5, 29 25.5, 30.8 25.5 C32.5 25.5, 34.5 26.5, 35.2 29 C35 31.2, 32.8 32.5, 30.8 32.5 C29 32.5, 27 31.2, 26.8 29Z" fill="none" stroke="#e0cdb8" stroke-width="0.3"/>
+  <circle cx="30.8" cy="29.2" r="2.5" fill="url(#cleo-iris)"/>
+  <circle cx="31" cy="29" r="1.2" fill="#1a0c04"/>
+  <circle cx="32.1" cy="28" r="0.9" fill="white"/>
+  <circle cx="29.8" cy="30" r="0.45" fill="white" opacity="0.7"/>
+  <path d="M17 27.5 L16 26.2" stroke="#5a3a18" stroke-width="0.7" stroke-linecap="round" opacity="0.5"/>
+  <path d="M18 26.5 L17.5 25.2" stroke="#5a3a18" stroke-width="0.6" stroke-linecap="round" opacity="0.4"/>
+  <path d="M35 27.5 L36 26.2" stroke="#5a3a18" stroke-width="0.7" stroke-linecap="round" opacity="0.5"/>
+  <path d="M34 26.5 L34.5 25.2" stroke="#5a3a18" stroke-width="0.6" stroke-linecap="round" opacity="0.4"/>
+  <path d="M17.5 24 Q21 22.8 24.5 24" stroke="#a8873e" stroke-width="0.9" fill="none" stroke-linecap="round" opacity="0.3"/>
+  <path d="M27.5 24 Q31 22.8 34.5 24" stroke="#a8873e" stroke-width="0.9" fill="none" stroke-linecap="round" opacity="0.3"/>
+  <path d="M25.3 33.5 Q26 34.8 26.7 33.5" stroke="#d4a070" stroke-width="0.8" fill="none" stroke-linecap="round"/>
+  <path d="M20 36.5 Q26 42 32 36.5" fill="#e05050"/>
+  <path d="M22 37 L30 37 L29.5 38.5 Q26 39.5 22.5 38.5Z" fill="white" opacity="0.9"/>
+  <path d="M20 36.5 Q26 42 32 36.5" fill="none" stroke="#c04040" stroke-width="0.7"/>
+  <path d="M22.5 40 Q26 41.5 29.5 40" fill="none" stroke="#d4a070" stroke-width="0.5" stroke-linecap="round" opacity="0.3"/>
+  <ellipse cx="16" cy="34" rx="3" ry="2" fill="#f9a8d4" opacity="0.25"/>
+  <ellipse cx="36" cy="34" rx="3" ry="2" fill="#f9a8d4" opacity="0.25"/>
+  <path d="M3 22 L3.5 23.5 L5 23.8 L3.8 24.8 L4.2 26.3 L3 25.3 L1.8 26.3 L2.2 24.8 L1 23.8 L2.5 23.5Z" fill="#facc15" opacity="0.6"/>
+  <path d="M49 22 L49.5 23.5 L51 23.8 L49.8 24.8 L50.2 26.3 L49 25.3 L47.8 26.3 L48.2 24.8 L47 23.8 L48.5 23.5Z" fill="#60a5fa" opacity="0.6"/>
+  <circle cx="6" cy="16" r="0.8" fill="#fb923c" opacity="0.5"/>
+  <circle cx="46" cy="16" r="0.8" fill="#4ade80" opacity="0.5"/>
+  <circle cx="2" cy="30" r="0.6" fill="#a78bfa" opacity="0.4"/>
+  <circle cx="50" cy="30" r="0.6" fill="#f87171" opacity="0.4"/>
+</svg>
